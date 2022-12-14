@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrew</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate full stack developer from Canada</h3>
 
 I’m currently learning **web development**, working on **personal learning projects**. I’m looking for help with **learning React**.
 
